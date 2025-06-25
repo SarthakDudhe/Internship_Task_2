@@ -58,12 +58,7 @@ titanic-eda/
 ### 7. Group-wise Analysis
 - Grouped by `Pclass`, `Sex`, and combined categories to explore survival rates
 
-### 8. Outlier Detection
-- Box plots used to visually detect outliers in `Age` and `Fare`
 
-### 9. Feature Engineering Ideas (Optional)
-- Created `FamilySize` and `IsAlone`
-- Extracted titles from names
 
 ---
 
