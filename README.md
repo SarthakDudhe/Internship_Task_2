@@ -108,3 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 🙌 Acknowledgments
+
+- Open-source community for tools like pandas, sklearn, seaborn, etc.
